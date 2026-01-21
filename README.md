@@ -12,7 +12,6 @@ product categories, and regional information.
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 
 ## Analysis Performed
 - Data cleaning and preprocessing
